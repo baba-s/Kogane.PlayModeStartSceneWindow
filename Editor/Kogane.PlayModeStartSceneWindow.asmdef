@@ -1,5 +1,5 @@
 {
-    "name": "UniPlayModeStartSceneSettingWindow",
+    "name": "Kogane.PlayModeStartSceneWindow",
     "references": [],
     "includePlatforms": [
         "Editor"
