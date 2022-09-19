@@ -47,7 +47,7 @@ namespace Kogane.Internal
 
             var newSceneAsset = ( SceneAsset )EditorGUILayout.ObjectField
             (
-                label: new GUIContent( "Start Scene" ),
+                label: "Start Scene",
                 obj: oldSceneAsset,
                 objType: typeof( SceneAsset ),
                 allowSceneObjects: false
